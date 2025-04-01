@@ -1,5 +1,8 @@
 # Pharo Linear Regression
 
+## 📷 Screenshot
+![Project Screenshot](LinearRegression-Model-Result.png)
+
 ## Overview
 This project implements **Linear Regression** in **Pharo** using **Cormos**. The implementation provides a simple way to train a linear model on a given dataset and make predictions.
 
